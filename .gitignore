@@ -1,0 +1,6 @@
+Api/.vscode/
+Api/bin/
+Api/obj/
+Api/datingapp.db
+Api/datingapp.db-wal
+Api/datingapp.db-shm
